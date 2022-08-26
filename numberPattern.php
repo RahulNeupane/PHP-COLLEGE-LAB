@@ -6,7 +6,7 @@
     step2: decrease first loop from 8 to 1 
     step3: increase second loop from 1 to <= first row current value
     step4: print values of second row
-    step5: outside first loop use br tag to sepate rows
+    step5: outside first loop use br tag to separate rows
 
 -->
 
